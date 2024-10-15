@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\BScIT\\TYIT\\DotNet\\BootstrapButton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E92F42F6-6EE7-4467-91B2-94C77C35C78E}|BootstrapButton\\BootstrapButton.csproj|f:\\bscit\\tyit\\dotnet\\bootstrapbutton\\bootstrapbutton\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E92F42F6-6EE7-4467-91B2-94C77C35C78E}|BootstrapButton\\BootstrapButton.csproj|solutionrelative:bootstrapbutton\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "F:\\BScIT\\TYIT\\DotNet\\BootstrapButton\\BootstrapButton\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "BootstrapButton\\WebForm1.aspx",
+              "ToolTip": "F:\\BScIT\\TYIT\\DotNet\\BootstrapButton\\BootstrapButton\\WebForm1.aspx",
+              "RelativeToolTip": "BootstrapButton\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-14T13:26:11.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
