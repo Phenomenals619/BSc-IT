@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\BScIT\\TYIT\\DotNet\\NavigationControls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A05357E-2C14-4D38-BC96-BD6F60EBB72A}|NavigationControls\\NavigationControls.csproj|f:\\bscit\\tyit\\dotnet\\navigationcontrols\\navigationcontrols\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A05357E-2C14-4D38-BC96-BD6F60EBB72A}|NavigationControls\\NavigationControls.csproj|solutionrelative:navigationcontrols\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A05357E-2C14-4D38-BC96-BD6F60EBB72A}|NavigationControls\\NavigationControls.csproj|F:\\BScIT\\TYIT\\DotNet\\NavigationControls\\navigationcontrols\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A05357E-2C14-4D38-BC96-BD6F60EBB72A}|NavigationControls\\NavigationControls.csproj|solutionrelative:navigationcontrols\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A05357E-2C14-4D38-BC96-BD6F60EBB72A}|NavigationControls\\NavigationControls.csproj|F:\\BScIT\\TYIT\\DotNet\\NavigationControls\\navigationcontrols\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A05357E-2C14-4D38-BC96-BD6F60EBB72A}|NavigationControls\\NavigationControls.csproj|solutionrelative:navigationcontrols\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A05357E-2C14-4D38-BC96-BD6F60EBB72A}|NavigationControls\\NavigationControls.csproj|F:\\BScIT\\TYIT\\DotNet\\NavigationControls\\navigationcontrols\\web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2A05357E-2C14-4D38-BC96-BD6F60EBB72A}|NavigationControls\\NavigationControls.csproj|solutionrelative:navigationcontrols\\web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "F:\\BScIT\\TYIT\\DotNet\\NavigationControls\\NavigationControls\\Contact.aspx",
+              "RelativeDocumentMoniker": "NavigationControls\\Contact.aspx",
+              "ToolTip": "F:\\BScIT\\TYIT\\DotNet\\NavigationControls\\NavigationControls\\Contact.aspx",
+              "RelativeToolTip": "NavigationControls\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-11T15:21:28.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.aspx",
+              "DocumentMoniker": "F:\\BScIT\\TYIT\\DotNet\\NavigationControls\\NavigationControls\\About.aspx",
+              "RelativeDocumentMoniker": "NavigationControls\\About.aspx",
+              "ToolTip": "F:\\BScIT\\TYIT\\DotNet\\NavigationControls\\NavigationControls\\About.aspx",
+              "RelativeToolTip": "NavigationControls\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-11T15:11:24.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.sitemap",
+              "DocumentMoniker": "F:\\BScIT\\TYIT\\DotNet\\NavigationControls\\NavigationControls\\Web.sitemap",
+              "RelativeDocumentMoniker": "NavigationControls\\Web.sitemap",
+              "ToolTip": "F:\\BScIT\\TYIT\\DotNet\\NavigationControls\\NavigationControls\\Web.sitemap",
+              "RelativeToolTip": "NavigationControls\\Web.sitemap",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002838|",
+              "WhenOpened": "2024-10-11T15:09:21.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "F:\\BScIT\\TYIT\\DotNet\\NavigationControls\\NavigationControls\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "NavigationControls\\WebForm1.aspx",
+              "ToolTip": "F:\\BScIT\\TYIT\\DotNet\\NavigationControls\\NavigationControls\\WebForm1.aspx",
+              "RelativeToolTip": "NavigationControls\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-11T15:08:55.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

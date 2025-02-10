@@ -1,0 +1,9 @@
+hardware=["Monitor","CPU","Mouse"]
+software=["VsCode","TurboC","Dev"]
+print(hardware)
+print(software)
+hardware.append("Key")
+print(hardware)
+num=[0,-1,-2,-3]
+print(max(num),min(num),len(num))
+print(num[2])
